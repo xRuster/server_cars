@@ -27,4 +27,4 @@ const getCarById = async (req,res) =>{
     }
 }
 
-module.exports = {getAllCars,getCarById}
+module.exports = {getAllCars,getCarById};
